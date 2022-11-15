@@ -47,10 +47,10 @@ Seeking knowledge in Angular, VueJS, Julia, Go, Java.
 <a href="https://github.com/pedrokasak/netflixclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=netflixclone&theme=dracula" />
 </a>
-<a href="https://github.com/pedrokasak/biblioteca">
+<a href="https://github.com/pedrokasak/defi-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=biblioteca&theme=dracula" />
 </a>
-<a href="https://github.com/pedrokasak/robo-whatsapp">
+<a href="https://github.com/pedrokasak/nlw-copa-mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=robo-whatsapp&theme=dracula" />
 </a>
 

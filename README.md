@@ -3,9 +3,9 @@
 Graduated in Information Systems in 2016, a lover of music, Games, Series, Books and especially programming. I always seek to improve myself with new technologies and methodologies.
 
 Experiences
-with technologies like: Python, Javascripts, Node.Js, React, React Natice and frameworks like Django, NextJS.
+with technologies like: Python, Javascripts, Node.Js, React, React Native and frameworks like Django, NextJS, NestJS, Angular.
 
-Seeking knowledge in Solidity.
+Seeking knowledge in Typescript.
 
 ## My skills
 <div>

@@ -46,7 +46,7 @@ Seeking knowledge in Typescript.
 <a href="https://github.com/pedrokasak/netflixclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=netflixclone&theme=dracula" />
 </a>
-<a href="https://github.com/pedrokasak/apirestspringboot">
+<a href="https://github.com/pedrokasak/my-trips">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=defi-app&theme=dracula" />
 </a>
 <a href="https://github.com/pedrokasak/nlw-copa-mobile">

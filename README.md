@@ -40,7 +40,7 @@ Seeking knowledge in Typescript.
 
 ### My Main Projects
 
-<a href="https://github.com/pedrokasak/ecommerce-django">
+<a href="https://github.com/pedrokasak/homebroker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=ecommerce-django&theme=dracula" />
 </a>
 <a href="https://github.com/pedrokasak/netflixclone">

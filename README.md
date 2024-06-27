@@ -44,7 +44,7 @@ Seeking knowledge in Typescript.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=ecommerce-django&theme=dracula" />
 </a>
 <a href="https://github.com/pedrokasak/exchangeCrypto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=netflixclone&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=exchangeCrypto&theme=dracula" />
 </a>
 <a href="https://github.com/pedrokasak/my-trips">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=defi-app&theme=dracula" />

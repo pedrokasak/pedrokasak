@@ -17,7 +17,8 @@ Seeking knowledge in Typescript.
   <img align="center" alt="PH NODE" height=30 width=100 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="PH BLOCKCHAIN" height=30 width=100 src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge">
   <img align="center" alt="PH REACT" height=30 width=80 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="PH REACT-NATIVE" height=30 width=80 src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react-native&logoColor=61DAFB](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
+  <img align="center" alt="PH REACT-NATIVE" height=30 width=80 src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+
   <img align="center" alt="PH DJANGO" height=30 width=80 src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 <hr>

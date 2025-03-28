@@ -50,10 +50,10 @@ Seeking knowledge in Typescript.
 <a href="https://github.com/pedrokasak/my-trips">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=my-trips&theme=dracula" />
 </a>
-<a href="https://github.com/pedrokasak/nlw-copa-mobile">
+<a href="https://github.com/pedrokasak/medispark-leap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=medispark-leap&theme=dracula" />
 </a>
-<a href="https://github.com/pedrokasak/nlw-copa-mobile">
+<a href="https://github.com/pedrokasak/analyze_benchmark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=analyze_benchmark&theme=dracula" />
 </a>
 

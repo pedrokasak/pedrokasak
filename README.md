@@ -42,7 +42,7 @@ Seeking knowledge in Typescript.
 ### My Main Projects
 
 <a href="https://github.com/pedrokasak/homebroker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=ecommerce-django&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=smart-app&theme=dracula" />
 </a>
 <a href="https://github.com/pedrokasak/exchangeCrypto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=exchangeCrypto&theme=dracula" />

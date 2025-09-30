@@ -1,12 +1,22 @@
 ### Hi there 👋
 ### My name is Pedro Henrique🐱‍🏍
-Graduated in Information Systems in 2016, a lover of music, Games, Series, Books and especially programming. I always seek to improve myself with new technologies and methodologies.
+Full Stack Software Engineer with 4+ years of experience designing and delivering scalable applications, embedded systems, and enterprise solutions. Strong background in modern web technologies, process automation, and legacy system modernization, with proven ability to deliver high-impact solutions across industries.
 
-Experiences
-with technologies like: Python, Javascripts, Node.Js, React, React Native and frameworks like Django, NextJS, NestJS, Angular.
+I enjoy tackling technical challenges, collaborating with diverse teams, and driving innovation from concept to deployment. My experience spans both hands-on coding and team leadership, ensuring code quality, timely delivery, and business value.
 
-Seeking knowledge in Typescript.
+Highlights:
 
+Proficient in Python, Django, React, React Native, TypeScript, NestJs, and Docker.
+
+Experienced in embedded systems development with constrained resources.
+
+Strong record of process automation: from billing systems to customer onboarding.
+
+Led and mentored small development teams in freelance and enterprise projects.
+
+Skilled in cloud services, system architecture, and API integrations.
+
+Passionate about building user-centric solutions and continuously learning new technologies.
 ## My skills
 <div>
   <img align="center" alt="PH HTML5" height=30 width=80 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">

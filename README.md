@@ -1,22 +1,10 @@
 ### Hi there 👋
 ### My name is Pedro Henrique🐱‍🏍
-Full Stack Software Engineer with 4+ years of experience designing and delivering scalable applications, embedded systems, and enterprise solutions. Strong background in modern web technologies, process automation, and legacy system modernization, with proven ability to deliver high-impact solutions across industries.
+Full Stack Software Engineer with over 5 years of experience building scalable systems for telecommunications and SaaS platforms. Specialized in Python, Node.js, and cloud-based architectures, delivering robust solutions that improve performance, reduce operational costs, and accelerate deployment cycles.
 
-I enjoy tackling technical challenges, collaborating with diverse teams, and driving innovation from concept to deployment. My experience spans both hands-on coding and team leadership, ensuring code quality, timely delivery, and business value.
+Experienced in modernizing legacy systems, developing APIs, web and mobile applications, and integrating third-party services. Has led small engineering teams through code reviews, onboarding, and technical decision-making, ensuring high code quality and reliable product delivery.
 
-Highlights:
-
-Proficient in Python, Django, React, React Native, TypeScript, NestJs, and Docker.
-
-Experienced in embedded systems development with constrained resources.
-
-Strong record of process automation: from billing systems to customer onboarding.
-
-Led and mentored small development teams in freelance and enterprise projects.
-
-Skilled in cloud services, system architecture, and API integrations.
-
-Passionate about building user-centric solutions and continuously learning new technologies.
+Strong background in modern architectures and distributed systems using technologies such as React, NestJS, Docker, RabbitMQ, and both relational and NoSQL databases. Focused on building efficient, scalable software that aligns technology with real business needs.
 ## My skills
 <div>
   <img align="center" alt="PH HTML5" height=30 width=80 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +13,6 @@ Passionate about building user-centric solutions and continuously learning new t
   <img align="center" alt="PH JAVASCRIPT" height=30 width=100 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="PH TYPESCRIPT" height=30 width=100 src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="PH NODE" height=30 width=100 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="PH BLOCKCHAIN" height=30 width=100 src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge">
   <img align="center" alt="PH REACT" height=30 width=80 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="PH REACT-NATIVE" height=30 width=80 src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 

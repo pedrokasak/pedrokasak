@@ -47,8 +47,8 @@ Strong background in modern architectures and distributed systems using technolo
 <a href="https://github.com/pedrokasak/finance_ia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=finance_ia&theme=dracula" />
 </a>
-<a href="https://github.com/pedrokasak/medispark-leap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=medispark-leap&theme=dracula" />
+<a href="https://github.com/smart-folio-ai/smart-wallet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=smart-wallet&theme=dracula" />
 </a>
 <a href="https://github.com/pedrokasak/analyze_benchmark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrokasak&repo=analyze_benchmark&theme=dracula" />
@@ -57,18 +57,7 @@ Strong background in modern architectures and distributed systems using technolo
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokasak&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokasak&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokasak&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokasak&layout=compact&theme=tokyonight)
 <!--
 **pedrokasak/pedrokasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
